@@ -69,6 +69,6 @@ jane@example.com (Customer)
 
 ## License
 
-The MIT License
+The Iacsd License
 
 Copyright (c) 2021
